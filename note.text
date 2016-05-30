@@ -1,0 +1,9 @@
+dcTool-ReadTableStructureFromDataBase
+
+
+从数据库读取表结构信息制作成Excel表
+now:
+v1.0000.0001  基本功能实现
+
+next:
+v1.0000.0001  excel样式修改  
